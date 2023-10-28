@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 bem vindo ao meu perfil
+me chamo Thiago e estou fazendo o 1° ano do ensino médio 
 
+faço minhas atividades no alura, e jogo um fut nernvoso na educação física😉😎
 <!--
 **Thiaguim06/Thiaguim06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
